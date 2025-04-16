@@ -36,6 +36,7 @@
 - 데이터 정규화 및 학습을 통해 기존 모델 Loss 0.5215에서 0.0061까지 성능 개선
 - 최종 앱 구현 성공
 
-![image.png](attachment:f7fbb770-087a-4882-83d9-7ed37abbad0e:image.png)
+<img width="192" alt="image" src="https://github.com/user-attachments/assets/719d2bd4-94c5-4cde-83d3-4cb5c9f75722" />
 
-![image.png](attachment:6e0c9954-b7a0-41a0-9676-e453c8e8aab7:image.png)
+
+<img width="194" alt="image" src="https://github.com/user-attachments/assets/0e543392-3fc8-409d-b33e-9f632e10e0ef" />
